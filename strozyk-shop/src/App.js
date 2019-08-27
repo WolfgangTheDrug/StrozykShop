@@ -10,9 +10,9 @@ function App() {
   return (
       <>
           <Header/>
-          <Section/>
+          {/*<Section/>
           <aside> </aside>
-          <Footer/>
+          <Footer/>*/}
       </>
   );
 }

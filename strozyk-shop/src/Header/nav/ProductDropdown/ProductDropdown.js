@@ -17,3 +17,5 @@ class ProductDropdown extends Component{
 }
 
 export default ProductDropdown;
+
+/*TO DO HERE: propsy na listy*/

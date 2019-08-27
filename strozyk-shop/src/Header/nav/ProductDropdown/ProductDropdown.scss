@@ -9,11 +9,13 @@ ol{
       &.dropdown__hidden{
         display: none;
 
-        &:hover {
-          display: block;
-        }
+
+      }
+      &:hover {
+        display: block;
       }
     }
   }
 }
 
+/*TO DO HERE: DROPDOWN ANIMATION*/
