@@ -1,0 +1,19 @@
+ol{
+  list-style: none;
+  color: black;
+  li {
+    ul {
+      list-style: none;
+      color: black;
+
+      &.dropdown__hidden{
+        display: none;
+
+        &:hover {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
