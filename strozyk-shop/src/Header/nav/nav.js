@@ -1,10 +1,11 @@
 import React from "react";
-import Dropdown from './Dropdown/Dropdown';
+import './nav.scss'
+/*import Dropdown from './Dropdown/Dropdown';*/
 
 function Nav(){
     return (
         <nav>
-        <Dropdown/>
+      {/*  <Dropdown/>*/}
     </nav>)
 }
 
