@@ -1,12 +1,12 @@
 import React from "react";
-import logo from '../../logo.jpeg';
+import logo from '../../../../logo.jpeg';
 import './logo.scss'
 
 function Logo(){
-    return (<img
+    return (<a href={'/'}><img
             className={'logo'}
             src={logo}
-            alt="strozyk logo"/>)
+            alt="strozyk logo"/></a>)
 }
 
 export default Logo;
