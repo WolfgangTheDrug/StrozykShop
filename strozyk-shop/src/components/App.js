@@ -4,12 +4,10 @@ import './App.scss';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import LandingPage from './LandingPage/LandingPage';
 import Shop from './Shop/Shop';
-import './Shop/Header/logo/logoSmall.scss';
+import AboutMe from './AboutMe/AboutMe'
+import Contact from './Contact/Contact'
 
-
-const AboutMe = () => <div>'O mnie'</div>;
-const Contact = () => <div> 'Kontakt' </div>;
-const NotFound = () => <div>' :C '</div>
+const NotFound = () => <div>' :C '</div>;
 function App() {
   return (
       <HashRouter>

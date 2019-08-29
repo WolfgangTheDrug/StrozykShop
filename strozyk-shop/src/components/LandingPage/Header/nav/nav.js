@@ -1,7 +1,7 @@
 import React from "react";
-import './nav.scss';
-import ProductDropdown from './ProductDropdown/ProductDropdown';
-import NavUpperPart from './NavUpperPart/NavUpperPart';
+import './nav.scss'
+import ProductDropdown from './ProductDropdown/ProductDropdown'
+import NavUpperPart from './NavUpperPart/NavUpperPart'
 /*import Dropdown from './Dropdown/Dropdown';*/
 
 function Nav(){

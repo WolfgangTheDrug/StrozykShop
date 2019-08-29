@@ -1,22 +1,24 @@
 import React,{Component} from 'react';
 import './Footer.scss'
+import {Link} from "react-router-dom";
 
 class Footer extends Component {
     render() {
         return (
             <footer>
+                <div style={{width: "100%", height:"25px", backgroundColor: "white"}}/>
                 <div className="footer-sections">
                     <section className="footer-section">
                         <p>Kupuj</p>
-                        <p><a href="/shop/him">Dla niego</a></p>
-                        <p><a href="/shop/her">Dla niej</a></p>
+                        <p><Link to="/shop/him">Dla Niego</Link></p>
+                        <p><Link to="/shop/her">Dla Niej</Link></p>
                     </section>
                     <section className="footer-section">
                         <p>Pomoc</p>
-                        <p><a href="/contact">Kontakt</a></p>
-                        <p><a href="/terms">Regulamin Zwrótów</a></p>
-                        <p><a href="/FAQ">FAQ</a></p>
-                        <p><a href="/about_me">O mnie</a></p>
+                        <p><Link to="/contact">Kontakt</Link></p>
+                        <p><Link to="/terms">Regulamin Zwrótów</Link></p>
+                        <p><Link to="/FAQ">FAQ</Link></p>
+                        <p><Link to="/about_me">O mnie</Link></p>
                     </section>
                 </div>
                 <div className="footer-social-media">

@@ -4,7 +4,7 @@ import './logo.scss'
 
 function Logo(){
     return (<a href={'/'}><img
-            className={'logo small'}
+            className={'logo'}
             src={logo}
             alt="strozyk logo"/></a>)
 }

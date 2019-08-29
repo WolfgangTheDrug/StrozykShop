@@ -1,14 +1,13 @@
 import React,{Component} from 'react';
-import Header from '../Shop/Header/Header';
-import '../Shop/Header/logo/logoSmall.scss';
-import Slider from './Slider/Slider'
+import Header from './Header/Header';
 import Footer from '../Shop/Footer/Footer';
+import Main from "./Main/Main";
 
 class LandingPage extends Component{
     render(){
         return (<>
             <Header/>
-            <Slider/>
+            <Main/>
             <Footer/>
         </>)
     }
