@@ -1,14 +1,14 @@
 import React from 'react';
 import {HashRouter,Route,Switch} from "react-router-dom";
 import './App.scss';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import LandingPage from './LandingPage/LandingPage';
 import Shop from './Shop/Shop';
-import AboutMe from './AboutMe/AboutMe'
-import Contact from './Contact/Contact'
+import AboutMe from './AboutMe/AboutMe';
+import Contact from './Contact/Contact';
 import Terms from './Terms/Terms';
-import FAQ from './FAQ/FAQ'
-import NotFound from './NotFound/NotFound'
+import FAQ from './FAQ/FAQ';
+import NotFound from './NotFound/NotFound';
 
 function App() {
   return (

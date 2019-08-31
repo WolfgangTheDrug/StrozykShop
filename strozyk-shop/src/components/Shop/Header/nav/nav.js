@@ -9,8 +9,8 @@ function Nav(){
         <NavUpperPart/>
         <nav>
             <div>
-              <ProductDropdown/>
-              <ProductDropdown/>
+              <ProductDropdown category={"Niej"}/>
+              <ProductDropdown category={"Niego"}/>
             </div>
             <div><i className="fas fa-shopping-cart" style={{fontSize: "30px"}}/></div>
         </nav>
