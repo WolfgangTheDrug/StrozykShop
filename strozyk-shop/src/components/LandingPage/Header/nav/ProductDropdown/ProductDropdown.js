@@ -1,10 +1,18 @@
 import React,{Component} from 'react';
 import './ProductDropdown.scss';
+import {Link} from 'react-router-dom'
+
 class ProductDropdown extends Component{
+constructor (props) {
+    super(props);
+    sex = () => (this.props.category === 'Niego')? 'him': 'her';
+
+}
     render() {
         return(
             <ol>
-                <li> Dla {this.props.category}
+
+                <li> <Link to={'/shop/'+this.sex()}> Dla {this.props.category}</Link>
                     <ul className={'dropdown__hidden'}>
                         <li>Kurtki</li>
                         <li>Bluzy</li>

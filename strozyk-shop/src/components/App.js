@@ -13,7 +13,6 @@ import NotFound from './NotFound/NotFound';
 function App() {
   return (
       <HashRouter>
-
           <Switch>
               <Route exact path = {'/'} component={LandingPage}/>
               <Route path = {'/shop'} component={Shop}/>
