@@ -1,10 +1,13 @@
-.logo{
-  width: 100%;
-  height: auto;
-  margin: 0 auto;
+header *:first-child{
+  &:not(.logo) * {
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+  }
 
-  &.small{
-    width:30%;
-
+  &.logo *{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
   }
 }

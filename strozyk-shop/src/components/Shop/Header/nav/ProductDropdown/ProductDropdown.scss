@@ -1,7 +1,10 @@
 ol{
   list-style: none;
+  text-decoration: none;
   color: black;
   li {
+    text-decoration: none;
+    color: black;
     ul {
       list-style: none;
       color: black;
@@ -17,5 +20,3 @@ ol{
     }
   }
 }
-
-/*TO DO HERE: DROPDOWN ANIMATION*/

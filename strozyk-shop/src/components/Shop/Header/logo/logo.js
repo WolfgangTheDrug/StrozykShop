@@ -1,11 +1,16 @@
-import React from "react";
+import React,{Component} from "react";
 import logo from '../../../../logo.jpeg';
-import './logo.scss'
+import {NavLink} from "react-router-dom";
 
-function Logo(){
-    return (<a href={'/'}><img
-            className={'logo small'}
-            src={logo}
-            alt="strozyk logo"/></a>)
+class Logo extends Component{
+
+    render(){
+        return (<NavLink exact to={'/'} activeClassName={'logo'}>
+            <img
+               /* className={'small'}*/
+                src={logo}
+                alt="strozyk logo"/>
+        </NavLink>)
+    }
 }
 export default Logo;
