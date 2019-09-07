@@ -2,6 +2,7 @@ import React from "react";
 import './nav.scss';
 import ProductDropdown from './ProductDropdown/ProductDropdown';
 import NavUpperPart from './NavUpperPart/NavUpperPart';
+import {Link} from "react-router-dom";
 /*import Dropdown from './Dropdown/Dropdown';*/
 
 function Nav(){
@@ -12,7 +13,11 @@ function Nav(){
               <ProductDropdown category={"Niej"}/>
               <ProductDropdown category={"Niego"}/>
             </div>
-            <div><i className="fas fa-shopping-cart" style={{fontSize: "30px"}}/></div>
+            <div>
+                <Link to={'/shop/cart'} title={'Koszyk'}>
+                    <i className="fas fa-shopping-cart" style={{fontSize: "30px"}}/>
+                </Link>
+            </div>
         </nav>
     </>)
 }

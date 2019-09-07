@@ -2,4 +2,13 @@ header {
   background-color: black;
   text-align: center;
 
+ a{
+   color: black;
+   text-decoration: none;
+
+   &:hover {
+     color: #333;
+     text-decoration: none;
+   }
+ }
 }

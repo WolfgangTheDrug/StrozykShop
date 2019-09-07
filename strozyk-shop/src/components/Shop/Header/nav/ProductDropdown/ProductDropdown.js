@@ -5,7 +5,12 @@ class ProductDropdown extends Component{
     render() {
         return(
             <ol>
-                <li> <Link to={`/shop/${(this.props.category === 'Niego')? 'him': 'her'}`}> Dla {this.props.category}</Link>
+                <li>
+                    <Link
+                        to={`/shop/${(this.props.category === 'Niego')? 'him': 'her'}`}
+                        title={`Dla ${this.props.category}`}>
+                        Dla {this.props.category}
+                    </Link>
                     <ul className={'dropdown__hidden'}>
                         <li>Kurtki</li>
                         <li>Bluzy</li>

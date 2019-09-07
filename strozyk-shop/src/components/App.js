@@ -1,8 +1,7 @@
 import React from 'react';
 import {HashRouter,Route,Switch} from "react-router-dom";
 import './App.scss';
-import 'bootstrap/dist/css/bootstrap.min.css';
-/*import './Shop/Header/logo/logoSmall.scss';*/
+/*import 'bootstrap/dist/css/bootstrap.min.css';*/
 import './Shop/Header/logo/logo.scss'
 import LandingPage from './LandingPage/LandingPage';
 import Shop from './Shop/Shop';
@@ -26,7 +25,7 @@ function App() {
               <Route path = {'/contact'} component={Contact}/>
               <Route path = {'/terms'} component={Terms}/>
               <Route path = {'/FAQ'} component={FAQ}/>
-              <Route path = {'/Cart'} component={Cart}/>
+              <Route path = {'/shop/cart'} component={Cart}/>
               <Route component={NotFound}/>
           </Switch>
           <Footer/>
