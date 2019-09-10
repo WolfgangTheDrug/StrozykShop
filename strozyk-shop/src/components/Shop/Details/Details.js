@@ -32,8 +32,9 @@ class Details extends Component {
                                        <Link to={'/shop/her'}>
                                            <button>Powrót</button>
                                        </Link>
-                                       <button disabled={inCart} onClick={()=>{
+                                       <button disabled={!!inCart} onClick={()=>{
                                            value.addToCart(id);
+                                           value.openModal(id);
                                        }}>
                                            {inCart?'Dodano':'Dodaj'}
                                        </button>
