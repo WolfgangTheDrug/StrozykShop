@@ -22,7 +22,8 @@ class Shop extends Component {
                     <Route path = {'/FAQ'} component={FAQ}/>
                     <Route path = {'/shop/cart'} component={Cart}/>
                     <Route path = {'/shop/details'} component={Details}/>
-                    <Route path = {'/shop/products'} component={Products}/>
+                    <Route path = {'/shop/her'} component={Products}/>
+                    <Route path = {'/shop/him'} component={Products}/>
                     <Route component={NotFound}/>
                 </Switch>
             </HashRouter>

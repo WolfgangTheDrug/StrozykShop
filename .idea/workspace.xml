@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e2b9c81-8623-4e91-8755-3d99c0bcd22b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strozyk-shop/src/context/context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/ProductHer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/images/images.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strozyk-shop/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/strozyk-shop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Main/Slider/Slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Main/Slider/Slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/Header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/public/images/lips_bluza-biala.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/images/lips_bluza-biala.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/public/images/lips_bluza-czarna.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/images/lips_bluza-czarna.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/public/images/lips_bluza-rozowa.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/images/lips_bluza-rozowa.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/public/images/lips_sukienka-biala.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/images/lips_sukienka-biala.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/public/images/lips_sukienka-czarna.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/images/lips_sukienka-czarna.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/public/images/lips_sukienka-rozowa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/images/lips_sukienka-rozowa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.js" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/logo/logo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/logo/logo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.scss" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/context/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/context/context.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/strozyk-shop/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strozyk-shop/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/strozyk-shop/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,22 +36,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/context/context.js">
+        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="394">
+              <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.js">
+        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/ProductHer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="86" />
+            <state relative-caret-position="135">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-end-line="10" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -49,32 +56,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Main/Slider/Slider.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="255">
+              <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/data.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/context/context.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="51" column="12" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Title.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="156">
+              <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,18 +124,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Footer/Footer.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Slider/Slider.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/nav/nav.scss" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/Header.scss" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Main/Main.scss" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Main/Main.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Main/Slider/Slider.scss" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/nav/NavUpperPart.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/App.scss" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/nav/NavUpperPart/NavUpperPart.scss" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Footer/Footer.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.scss" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/Contact.scss.css" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/nav/NavUpperPart/NavUpperPart.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Terms/Terms.scss" />
@@ -149,7 +141,6 @@
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav/ProductDropdown/ProductDropdown.scss" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Details.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Cart/Cart.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Contact/Contact.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/FAQ/FAQ.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/NotFound/NotFound.js" />
@@ -159,8 +150,6 @@
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/LandingPage.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/Header.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/logo/logo.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/logo/logo.scss" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Shop.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav/nav.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav/ProductDropdown/ProductDropdown.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav/NavUpperPart/NavUpperPart.js" />
@@ -169,11 +158,23 @@
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Title.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/App.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/index.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/context/context.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/data.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Products.js" />
-        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.js" />
         <option value="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Main/Slider/Slider.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/images.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/images/images.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.scss" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.scss" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/logo/logo.scss" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHim/imagesHim/imagesHim.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHim/ProductHim.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Shop.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Products.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/ProductHer.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.scss" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/data.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.js" />
+        <option value="$PROJECT_DIR$/strozyk-shop/src/context/context.js" />
       </list>
     </option>
   </component>
@@ -226,26 +227,7 @@
               <item name="strozyk-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="LandingPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Strozyk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Strozyk" type="462c0819:PsiDirectoryNode" />
-              <item name="strozyk-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="LandingPage" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Strozyk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Strozyk" type="462c0819:PsiDirectoryNode" />
-              <item name="strozyk-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="LandingPage" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-              <item name="Slider" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Strozyk" type="b2602c69:ProjectViewProjectNode" />
@@ -254,6 +236,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="Details" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Strozyk" type="b2602c69:ProjectViewProjectNode" />
@@ -271,7 +254,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="Product" type="462c0819:PsiDirectoryNode" />
+              <item name="ProductsHer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strozyk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strozyk" type="462c0819:PsiDirectoryNode" />
+              <item name="strozyk-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
               <item name="Products" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strozyk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strozyk" type="462c0819:PsiDirectoryNode" />
+              <item name="strozyk-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,25 +283,27 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHim" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHim" />
       <recent name="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav" />
       <recent name="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header" />
       <recent name="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage" />
       <recent name="$PROJECT_DIR$/strozyk-shop/src/components/Footer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer" />
+      <recent name="$PROJECT_DIR$/strozyk-shop/src/images" />
+      <recent name="$PROJECT_DIR$/strozyk-shop/src" />
       <recent name="$PROJECT_DIR$/strozyk-shop/src/components/Shop" />
       <recent name="$PROJECT_DIR$/strozyk-shop/src/components/Details" />
-      <recent name="$PROJECT_DIR$/strozyk-shop/src/components/Contact" />
-      <recent name="$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/nav" />
-      <recent name="$PROJECT_DIR$/strozyk-shop/src/components/AboutMe" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -338,7 +340,7 @@
       <workItem from="1567358439402" duration="1785000" />
       <workItem from="1567444944790" duration="1059000" />
       <workItem from="1567523672647" duration="777000" />
-      <workItem from="1567780601851" duration="26189000" />
+      <workItem from="1567780601851" duration="41470000" />
     </task>
     <task id="LOCAL-00001" summary="Refactor: rozdzielanie na mniejsze komponenty cz 2.">
       <created>1566931167828</created>
@@ -410,21 +412,29 @@
       <option name="project" value="LOCAL" />
       <updated>1567820077436</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="rozpoczęcie pracy nad koszykiem i listą produktów. Utworzenie testowej bazy danych. Potrzeba ostylować">
+      <created>1567997991892</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567997991892</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85295000" />
+    <option name="totallyTimeSpent" value="100576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="893" y="27" width="707" height="868" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24853802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24853802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32871014" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -432,27 +442,28 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22119205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24853802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33009708" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32871014" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -472,7 +483,8 @@
     <MESSAGE value="działający link do sklepu w zależnści od pożądanej płci" />
     <MESSAGE value="logo zmienia wielkość w zależności od podstrony + lekka optymalizacja kodu" />
     <MESSAGE value="dodanie tytułów do linków -- czas zabrać się za ostateczne bossy tego projektu" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodanie tytułów do linków -- czas zabrać się za ostateczne bossy tego projektu" />
+    <MESSAGE value="rozpoczęcie pracy nad koszykiem i listą produktów. Utworzenie testowej bazy danych. Potrzeba ostylować" />
+    <option name="LAST_COMMIT_MESSAGE" value="rozpoczęcie pracy nad koszykiem i listą produktów. Utworzenie testowej bazy danych. Potrzeba ostylować" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -485,46 +497,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/nav/NavUpperPart/NavUpperPart.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/nav/poland-flag-icon-32.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Contact/Contact.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Terms/Terms.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Header/nav/NavUpperPart/NavUpperPart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/FAQ/FAQ.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Footer/Footer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -617,16 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Cart/Cart.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -699,29 +661,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/logo/logo.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/Header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav/ProductDropdown/ProductDropdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -733,13 +678,6 @@
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -771,26 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav/nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/App.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -809,59 +727,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Title.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/strozyk-shop/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Products.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/context/context.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="51" column="12" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -878,10 +749,169 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/LandingPage/Main/Slider/Slider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="200">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Title.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/images/images.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#47#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/logo/logo.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/AboutMe/AboutMe.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="84" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHim/imagesHim/imagesHim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHim/ProductHim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Header/nav/ProductDropdown/ProductDropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Products/Products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#177#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/Product.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="true" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Details/Details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/components/Shop/Product/ProductsHer/ProductHer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strozyk-shop/src/context/context.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,3 +1,7 @@
+import images from './components/Shop/Product/ProductsHer/images/images';
+const imgUrl = '/static/media/';
+
+
 export const shopProducts = [
     {
         id: 0,
@@ -5,7 +9,7 @@ export const shopProducts = [
         title: 'Bluza Lips Czarna',
         collection: 'Lips',
         color: 'Black',
-        img: '../Public/images/lips_bluza_czarna',
+        img: images[0],
         price: 200,
         info: '...',
         inCart: false,
@@ -19,7 +23,7 @@ export const shopProducts = [
         title: 'Bluza Lips Biała',
         collection: 'Lips',
         color: 'White',
-        img: '../Public/images/lips_bluza_biala',
+        img: images[1],
         price: 200,
         info: '...',
         inCart: false,
@@ -33,7 +37,7 @@ export const shopProducts = [
         title: 'Bluza Lips Różowa',
         collection: 'Lips',
         color: 'Pink',
-        img: '../Public/images/lips_bluza_rozowa',
+        img: images[2],
         price: 200,
         info: '...',
         inCart: false,
@@ -47,8 +51,8 @@ export const shopProducts = [
         title: 'Sukienka Lips Czarna',
         collection: 'Lips',
         color: 'Black',
-        img: '../Public/images/lips_sukienka_czarna',
-        price: 200,
+        img: images[3],
+        price: 150,
         info: '...',
         inCart: false,
         count: 0,
@@ -58,9 +62,11 @@ export const shopProducts = [
 
 export const detailProduct = {
     id: 0,
+    type: 'Bluza',
     title: 'Bluza Lips Czarna',
-    color: 'Czarna',
-    img: '../Public/images/lips_bluza_czarna',
+    collection: 'Lips',
+    color: 'Black',
+    img: images[0],
     price: 200,
     info: '...',
     inCart: false,

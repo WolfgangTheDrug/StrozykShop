@@ -1,8 +1,10 @@
 header *:first-child{
+
   &:not(.logo) * {
     width: 30%;
     height: auto;
     margin: 0 auto;
+
   }
 
   &.logo *{
