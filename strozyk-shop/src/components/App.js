@@ -13,6 +13,7 @@ import NotFound from './NotFound/NotFound';
 import Cart from './Cart/Cart';
 import Header from "./Shop/Header/Header";
 import Footer from "./Shop/Footer/Footer";
+import Modal from './Modal/Modal';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
               <Route path = {'/shop/cart'} component={Cart}/>
               <Route component={NotFound}/>
           </Switch>
+          <Modal/>
           <Footer/>
       </HashRouter>
   );

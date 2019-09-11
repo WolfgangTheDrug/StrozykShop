@@ -7,7 +7,7 @@ class ProductProvider extends Component {
         products: [],
         detailProduct:detailProduct,
         cart: [],
-        modalOpen: true,
+        modalOpen: false,
         modalProduct: detailProduct,
     };
     componentDidMount() {
@@ -27,8 +27,8 @@ class ProductProvider extends Component {
     };//wszystko powyżej ma zapewnić, że nie bawimy się w przekazywanie przez referencję, a przez wartość!
 
     getItem = (id) => {
-        const product = this.state.products.find(item => item.id === id)
-        return product;
+        return this.state.products.find(item => item.id === id)
+
     };
 
     handleDetail = (id) => {
@@ -44,8 +44,7 @@ class ProductProvider extends Component {
         const product = tempProducts[index];
         product.inCart = true;
         product.count = 1;
-        const price = product.price;
-        product.total = price;
+        product.total = product.price;
 
         this.setState(
             () => {
