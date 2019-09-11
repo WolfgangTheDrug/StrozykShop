@@ -1,6 +1,4 @@
 import images from './components/Shop/Product/ProductsHer/images/images';
-const imgUrl = '/static/media/';
-
 
 export const shopProducts = [
     {
