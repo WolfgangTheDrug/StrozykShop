@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {HashRouter,Route,Switch} from "react-router-dom";
-import Products from "./Products/Products";
+import ProductsHer from "./Products/ProductsHer/ProductsHer";
+import ProductsHim from "./Products/ProductsHim/ProductsHim";
 import Details from './Details/Details';
 import LandingPage from "../LandingPage/LandingPage";
 import AboutMe from "../AboutMe/AboutMe";
@@ -22,8 +23,8 @@ class Shop extends Component {
                     <Route path = {'/FAQ'} component={FAQ}/>
                     <Route path = {'/shop/cart'} component={Cart}/>
                     <Route path = {'/shop/details'} component={Details}/>
-                    <Route path = {'/shop/her'} component={Products}/>
-                    <Route path = {'/shop/him'} component={Products}/>
+                    <Route path = {'/shop/her'} component={ProductsHer}/>
+                    <Route path = {'/shop/him'} component={ProductsHim}/>
                     <Route component={NotFound}/>
                 </Switch>
             </HashRouter>

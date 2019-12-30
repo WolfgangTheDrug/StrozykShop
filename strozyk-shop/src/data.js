@@ -1,8 +1,8 @@
-import images from './components/Shop/Product/ProductsHer/images/images';
+import images from './components/Shop/Product/ProductHer/imagesHer/images';
 
 export const shopProducts = [
     {
-        id: 0,
+        id: 10000,
         type: 'Bluza',
         title: 'Bluza Lips Czarna',
         collection: 'Lips',
@@ -16,7 +16,7 @@ export const shopProducts = [
     },
 
     {
-        id: 1,
+        id: 10001,
         type: 'Bluza',
         title: 'Bluza Lips Biała',
         collection: 'Lips',
@@ -30,7 +30,7 @@ export const shopProducts = [
     },
 
     {
-        id: 2,
+        id: 10002,
         type: 'Bluza',
         title: 'Bluza Lips Różowa',
         collection: 'Lips',
@@ -44,7 +44,7 @@ export const shopProducts = [
     },
 
     {
-        id: 3,
+        id: 10003,
         type: 'Sukienka',
         title: 'Sukienka Lips Czarna',
         collection: 'Lips',
@@ -59,7 +59,7 @@ export const shopProducts = [
 ];
 
 export const detailProduct = {
-    id: 0,
+    id: 10000,
     type: 'Bluza',
     title: 'Bluza Lips Czarna',
     collection: 'Lips',

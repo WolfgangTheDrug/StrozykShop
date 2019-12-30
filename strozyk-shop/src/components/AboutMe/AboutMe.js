@@ -1,11 +1,10 @@
 import React, {Component} from 'react';
 import Me from './me.jpg'
-import './AboutMe.scss'
 
 class AboutMe extends Component {
     render() {
         return (
-            <div className={'me-descr'}>
+            <div className={'basic-bg'}>
                 <p>
                     Cześć! Nazywam się Patryk Stróżyk, jestem twórcą marki STROZYK.
                 Doświadczenie nabrałem kończąc szkołę 7 cm w Poznaniu z zakresu konstrukcji odzieży i szycia. Jednak współpracując z osobami z branży, a także szyjąc na własną rękę projekty są dopracowane do perfekcji.

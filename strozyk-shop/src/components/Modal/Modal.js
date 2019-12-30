@@ -19,10 +19,10 @@ class Modal extends Component {
                                 <div className="container">
                                     <div className="row">
                                         <div id='modal' className="col-8 mx-auto col-md-6 col-lg-4 text-center text-capitalize">
-                                            <h5>item added to the cart</h5>
+                                            <h5>DODANO DO KOSZYKA</h5>
                                             <img src={img} alt={title} className={'img-fluid'} />
                                             <h5>{title}</h5>
-                                            <h5 className={'text-muted'}>Cena: ${price}</h5>
+                                            <h5>Cena: ${price}</h5>
                                             <Link to={'/shop/her'}>
                                                 <button onClick={()=>{
                                                     closeModal();

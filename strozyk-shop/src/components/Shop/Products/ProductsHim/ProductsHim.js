@@ -1,9 +1,9 @@
 import React,{Component} from 'react';
-import './Products.scss';
-import Product from "../Product/ProductsHer/ProductHer";
+import '../Products.scss';
+import Product from "../../Product/ProductHim/ProductHim";
 /*import ProductHer from '../ProductHer/ProductHer';*/
-import Title from './Title';
-import {ProductConsumer} from '../../../context/context';
+import Title from '../Title';
+import {ProductConsumer} from '../../../../context/context';
 
 class Products extends Component{
 
@@ -11,10 +11,9 @@ class Products extends Component{
 
         return (
             <>
-                {/*<ProductHer/>*/}
                 <div className={'py-5'}>
                     <div className="container">
-                        <Title name={'DLA'} title={'NIEJ'}/>
+                        <Title name={'DLA'} title={'NIEGO'}/>
                         <div className="row">
                             <ProductConsumer>
                                 {value => {

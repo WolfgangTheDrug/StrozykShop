@@ -15,7 +15,7 @@ function Nav(){
             </div>
             <div>
                 <Link to={'/shop/cart'} title={'Koszyk'}>
-                    <i className="fas fa-shopping-cart" style={{fontSize: "30px"}}/>
+                    <i className="fas fa-shopping-cart" style={{fontSize: "calc(0.8rem + 2vw)"}}/>
                 </Link>
             </div>
         </nav>

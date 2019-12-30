@@ -47,5 +47,52 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+.basic-bg{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  color: white;
 
+  p {
+    width: 80%;
+    &:first-of-type{
+      padding: 80px 50px 0 50px;
+    }
+    &:last-of-type{
+      padding: 10px 50px 80px 50px;
+    }
+
+  }
+}
+button {
+  background: transparent;
+  text-transform: capitalize;
+  font-size: 0.8rem !important;
+  color: white;
+  border-radius: 0 !important;
+  border: 0.1rem solid white !important;
+
+  &:hover {
+    background: white !important;
+    color: black !important;
+  }
+}
+
+#modal {
+  button {
+    background-color: black;
+    text-transform: capitalize;
+    font-size: 0.8rem !important;
+    color: white;
+    border-radius: 0 !important;
+    border: 0.1rem solid white !important;
+
+    &:hover {
+      background: white !important;
+      color: black !important;
+    }
+  }
+}
 /*koniec resetu*/
