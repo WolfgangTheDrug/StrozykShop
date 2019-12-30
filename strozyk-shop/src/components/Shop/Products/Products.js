@@ -14,7 +14,7 @@ class Products extends Component{
                 {/*<ProductHer/>*/}
                 <div className={'py-5'}>
                     <div className="container">
-                        <Title name={'our'} title={'product'}/>
+                        <Title name={'DLA'} title={'NIEJ'}/>
                         <div className="row">
                             <ProductConsumer>
                                 {value => {

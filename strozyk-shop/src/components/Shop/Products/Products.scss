@@ -31,6 +31,7 @@ $tableUrl2:(
 
       &:hover {
         background-image: url(map-get($tableUrl2, img#{$i}));
+        background-size: cover;
       }
 
       &:after {

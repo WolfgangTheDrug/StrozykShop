@@ -9,7 +9,7 @@ class Details extends Component {
         return (
             <ProductConsumer>
                {value=>{
-                   const {id, type, title, collection, color, img, price, info, inCart, count, total} = value.detailProduct;
+                   const {id, /*type, */title, collection,/* color,*/ img, price, /*info, */inCart/*, count, total*/} = value.detailProduct;
                    return (
                        <div className="container py-5">
                            <div className="row">
@@ -38,6 +38,7 @@ class Details extends Component {
                                        }}>
                                            {inCart?'Dodano':'Dodaj'}
                                        </button>
+
                                    </div>
                                </div>
                            </div>
